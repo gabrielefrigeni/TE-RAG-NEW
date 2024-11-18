@@ -16,7 +16,6 @@ A simplified tree representation of the project folder is:
 │   |   ├── LoadIndex # Vector db loading scripts
 │   |   └── load_chat_engine.py # Chat engine definition using the tools
 │   ├── utils # Utilities for processing user inputs and chat outputs
-│   |   ├── next_mapping.py
 │   |   └── user_output.py
 │   ├── common # Templates for prompts
 │   |   ├── prompt_templates 
